@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://ediaristas-workshop.herokuapp.com";
+const url = "https://workflow.abaris.com.br";
 
 export const ApiService = axios.create({
   baseURL: url,
